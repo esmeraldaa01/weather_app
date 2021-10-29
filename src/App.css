@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+}
+.row {
+  padding-left: 20%;
+  padding-top: 10%;
+}
+
+h1,h3,h4,h5 {
+  color: white;
+}
+.cards {
+  padding-left: 40%;
+  padding-top: 5%;
+}
+.error {
+  padding-left: 30%;
+  color: darkred;
+  font-size: larger;
+}

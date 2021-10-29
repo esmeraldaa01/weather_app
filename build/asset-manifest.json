@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/esmeraldaa01/weather_app.git/static/css/main.7e7960aa.chunk.css",
+    "main.js": "/esmeraldaa01/weather_app.git/static/js/main.bd8bedc4.chunk.js",
+    "main.js.map": "/esmeraldaa01/weather_app.git/static/js/main.bd8bedc4.chunk.js.map",
+    "runtime-main.js": "/esmeraldaa01/weather_app.git/static/js/runtime-main.98e4c715.js",
+    "runtime-main.js.map": "/esmeraldaa01/weather_app.git/static/js/runtime-main.98e4c715.js.map",
+    "static/css/2.befe7699.chunk.css": "/esmeraldaa01/weather_app.git/static/css/2.befe7699.chunk.css",
+    "static/js/2.f7a5ca68.chunk.js": "/esmeraldaa01/weather_app.git/static/js/2.f7a5ca68.chunk.js",
+    "static/js/2.f7a5ca68.chunk.js.map": "/esmeraldaa01/weather_app.git/static/js/2.f7a5ca68.chunk.js.map",
+    "static/js/3.cba4c741.chunk.js": "/esmeraldaa01/weather_app.git/static/js/3.cba4c741.chunk.js",
+    "static/js/3.cba4c741.chunk.js.map": "/esmeraldaa01/weather_app.git/static/js/3.cba4c741.chunk.js.map",
+    "index.html": "/esmeraldaa01/weather_app.git/index.html",
+    "static/css/2.befe7699.chunk.css.map": "/esmeraldaa01/weather_app.git/static/css/2.befe7699.chunk.css.map",
+    "static/css/main.7e7960aa.chunk.css.map": "/esmeraldaa01/weather_app.git/static/css/main.7e7960aa.chunk.css.map",
+    "static/js/2.f7a5ca68.chunk.js.LICENSE.txt": "/esmeraldaa01/weather_app.git/static/js/2.f7a5ca68.chunk.js.LICENSE.txt",
+    "static/media/weather-icons.css": "/esmeraldaa01/weather_app.git/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e4c715.js",
+    "static/css/2.befe7699.chunk.css",
+    "static/js/2.f7a5ca68.chunk.js",
+    "static/css/main.7e7960aa.chunk.css",
+    "static/js/main.bd8bedc4.chunk.js"
+  ]
+}
